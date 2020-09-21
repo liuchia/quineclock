@@ -1,2 +1,3 @@
-# quineclock
-a program that outputs itself updated with the current time
+![quineclock](https://raw.githubusercontent.com/liuchia/quineclock/master/image.png)
+
+A program which outputs itself with the current time embedded in it.
